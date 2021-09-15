@@ -1,0 +1,2 @@
+# ArcoLinuxB-wmderland Calamares configuration
+
