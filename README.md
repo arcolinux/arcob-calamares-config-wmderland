@@ -1,2 +1,2 @@
-# ArcoLinuxB-wmderland Calamares configuration
+# ArcoLinuxB-leftwm Calamares configuration
 
